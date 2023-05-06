@@ -81,7 +81,7 @@ __Master of Engineering, Telematics__, TH Wildau
 __Bachelor of Engineering, Telematics__, TH Wildau
 
 
-# Certificates
+## Certificates
 
 `2021`
 __MBA Essentials__, London School of Economics
